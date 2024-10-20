@@ -23,9 +23,9 @@ I believe that the intersection of design, technology, and sustainability is cru
 
 I would love to connect with you on various platforms to share ideas, collaborate on projects, or discuss the latest trends in Civil Engineering and sustainable practices. Feel free to reach out through the links below:
 
-- [LinkedIn](https://www.linkedin.com/in/johndoe) - Let's connect and network within our industry!
-- [GitHub](https://github.com/johndoe) - Explore my projects and contributions to open-source initiatives.
-- [Email](mailto:johndoe@example.com) - For direct inquiries or collaboration opportunities.
+- [LinkedIn](https://www.linkedin.com/in/neethuprakash) - Let's connect and network within our industry!
+- [GitHub](https://github.com/neethuprakash) - Explore my projects and contributions to open-source initiatives.
+- [Email](mailto:neethuprakash@sustainablebim.com) - For direct inquiries or collaboration opportunities.
 
 ## Let's Collaborate
 
